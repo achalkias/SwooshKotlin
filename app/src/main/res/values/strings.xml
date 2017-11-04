@@ -15,4 +15,6 @@
     <string name="begginer">BEGGINER</string>
     <string name="baller">BALLER</string>
     <string name="finish">FINISH</string>
+    <string name="select_league_error">Please select a league.</string>
+    <string name="skill_error">Please select a skill level</string>
 </resources>
